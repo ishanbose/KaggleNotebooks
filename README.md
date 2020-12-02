@@ -2,7 +2,7 @@
 
 Repository for Kaggle Notebooks
 
-# Currently my notebooks are private 
+# Currently my notebooks are private .Hence you will not be able to view them .
 
 Differential Privacy using TFPrivacy
 
